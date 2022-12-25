@@ -11,16 +11,16 @@ body {
   background: #000000;
 }
 
-.navbar ul {
+.nav-links ul {
   list-style: none;
   display: flex;
 }
 
-.navbar ul li {
+.nav-links ul li {
   margin-left: 1rem;
 }
 
-.navbar a {
+.nav-links a {
   color: #fff;
   text-decoration: none;
   font-size: 1.2rem;
