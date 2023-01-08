@@ -17,7 +17,7 @@ h1 {
   padding: 20;
   animation: gradient-animation 5s linear infinite;
   height: 100%;
-  width: 40%;
+  width: 50%;
   border: 2px solid;
   border-image-source: linear-gradient(to right, #00b8ff, #ff0080);
   border-image-slice: 1;
@@ -39,7 +39,7 @@ h1 {
   padding: 20;
   animation: gradient-animation 5s linear infinite;
   height: 100%;
-  width: 50%;
+  width: 75%;
   border: 2px solid;
   border-image-source: linear-gradient(to right, #00b8ff, #ff0080);
   border-image-slice: 1;
