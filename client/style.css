@@ -9,11 +9,15 @@
  h1 {
   color: #fff;
   text-decoration: none;
+  margin: 20;
+  padding: 20;
  }
 
  p{
   color: #fff;
   text-decoration: none;
+  margin: 20;
+  padding: 20;
  }
 
 
@@ -146,7 +150,7 @@ body {
 }
 
 form {
-  width: 100%;
+  width: 75%;
   max-width: 1280px;
   margin: 0 auto;
   padding: 10px;
